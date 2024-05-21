@@ -4,4 +4,4 @@
 
 ## Koks yra antrasis klausimas?
 
-## Koks yra pirmasis klausimas?
+## Kodel konstanta vadinama kintamuoju? Konstanta - "pastovioji", kintamasis - kintanti reiksme.
